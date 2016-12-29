@@ -28,6 +28,7 @@
     - [ ] New Cities Placed for last 1, 5, 10, 30 days
     - [ ] Cities/Castles taken in last 1, 5, 10, 30 days
     - [ ] Ciies/Castles lost in last 1, 5, 10, 30 days
+    
 ### Private Reporting (Alliance Only)
 - [ ] **Member Info**
   - [ ] Offensive and Defensive capability per City, Castle, Region, & Continent
