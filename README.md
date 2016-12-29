@@ -3,18 +3,18 @@
 ## Project Goals
 ### Public Reporting
 - [ ] **Player Info**
-  - [ ] Alliance History
-  - [ ] Score History
+  - [x] Alliance History
+  - [x] Score History
   - [ ] Off. and Def. Ranking history  
   - [ ] Growth Rates
   - [ ] City / Castle Ratio
 - [ ] **Alliance Info**
-  - [ ] Score History
+  - [x] Score History
   - [ ] Score History By Continent
   - [ ] Membership History
-  - [ ] Current Score by Continent
+  - [x] Current Score by Continent
 - [ ] **World Info**
-  - [ ] Inactive Players List (Score, last active date, days inactive)
+  - [x] Inactive Players List (Score, last active date, days inactive)
   - [ ] Rankings By:
     - [ ] Score
     - [ ] Cities
@@ -23,7 +23,7 @@
     - [ ] Offensive
     - [ ] Defensive
   - [ ] Leaderboards For:
-    - [ ] Fastest Growth for last 1, 5, 10, 30 days
+    - [x] Fastest Growth for last 1, 5, 10, 30 days
     - [ ] Largest Drop In Score for last 1, 5, 10, 30 days
     - [ ] New Cities Placed for last 1, 5, 10, 30 days
     - [ ] Cities/Castles taken in last 1, 5, 10, 30 days
