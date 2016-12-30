@@ -23,7 +23,8 @@
     - [ ] Offensive
     - [ ] Defensive
   - [ ] Leaderboards For:
-    - [x] Fastest Growth for last 1, 5, 10, 30 days
+    - [x] Fastest Growth for last 1, 5, 10, 30 days by percentage of score
+    - [x] Fastest Growth for last 1, 5, 10, 30 days by score
     - [ ] Largest Drop In Score for last 1, 5, 10, 30 days
     - [ ] New Cities Placed for last 1, 5, 10, 30 days
     - [ ] Cities/Castles taken in last 1, 5, 10, 30 days
