@@ -51,3 +51,8 @@
     - [ ] Member Troops Lost
     - [ ] Member Participation
     - [ ] Enemy Participation
+    
+Additional Features:
+- City Settlement planner/checker
+  - Allows you to record city settlement plans for memebrs to check if a stop is taken
+  - Use teams to group players together and view each others landing spots to coordinate.
