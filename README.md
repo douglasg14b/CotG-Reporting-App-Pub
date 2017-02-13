@@ -4,6 +4,7 @@
 ### Public Reporting
 - [ ] **Player Info**
   - [x] Alliance History
+  - [ ] Word/Alliance History Similarities (players that shared same alliance)
   - [x] Score History
   - [ ] Off. and Def. Ranking history  
   - [ ] Growth Rates
